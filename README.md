@@ -23,6 +23,7 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+![2022-12-02](https://user-images.githubusercontent.com/117726980/205233932-a27eec43-bf61-438d-8837-42eba7c93dc2.png)
 
 
 
@@ -31,18 +32,22 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
+![2022-12-02 (1)](https://user-images.githubusercontent.com/117726980/205234067-6dfb6009-ae53-4729-8c41-61359675b9a1.png)
 
 
 ### Services -
 
+![2022-12-02 (2)](https://user-images.githubusercontent.com/117726980/205234131-5de4fb17-f36e-42ed-b67b-057bcc714a25.png)
 
 
 ### Contact us -
 
+![2022-12-02 (5)](https://user-images.githubusercontent.com/117726980/205234405-9ab141d3-a047-4131-919b-c634b97134fa.png)
 
 
 ### health bot
 
+![2022-12-02 (6)](https://user-images.githubusercontent.com/117726980/205234443-af3bb868-629c-4508-8aad-d4c924c96441.png)
 
 
 
@@ -51,5 +56,3 @@ This is a web based application developed for health related based website in in
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
