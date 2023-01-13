@@ -1,8 +1,8 @@
 # ✨  Doggo ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for doggo related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based doggo application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://nice-beach-012435200.2.azurestaticapps.net
@@ -45,7 +45,7 @@ This is a web based application developed for health related based website in in
 ![2022-12-02 (5)](https://user-images.githubusercontent.com/117726980/205234405-9ab141d3-a047-4131-919b-c634b97134fa.png)
 
 
-### health bot
+### chat bot
 
 ![2022-12-02 (6)](https://user-images.githubusercontent.com/117726980/205234443-af3bb868-629c-4508-8aad-d4c924c96441.png)
 
@@ -56,3 +56,5 @@ This is a web based application developed for health related based website in in
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
+- JAVA
+- BOOTSTRAP
