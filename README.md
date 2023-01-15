@@ -6,14 +6,14 @@ This is a web based application developed for doggo related based website in ind
 
 
 **Project Link** -https://nice-beach-012435200.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/zR4toX0Ppfs
 
 ## Azure technologies used for Project
 
 - Static web apps
 - Health bot
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -23,12 +23,10 @@ This is a web based application developed for doggo related based website in ind
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+
+![image](https://user-images.githubusercontent.com/117726980/212528561-59b86e9c-59ac-4857-9148-51dcff7ff8df.png)
+![image](https://user-images.githubusercontent.com/117726980/212528615-99a72e48-9f22-4428-a84e-361b84634f95.png)
 ![2022-12-02](https://user-images.githubusercontent.com/117726980/205233932-a27eec43-bf61-438d-8837-42eba7c93dc2.png)
-
-
-
-
-   
 
 ### About Us -
 
@@ -51,7 +49,7 @@ This is a web based application developed for doggo related based website in ind
 
 
 
-## Tech Stack 💻
+## Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
